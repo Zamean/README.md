@@ -1,1 +1,1 @@
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)Описание проекта NeuroStartUp:
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
